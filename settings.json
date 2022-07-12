@@ -1,0 +1,8 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "vscode-edge-devtools.mirrorEdits": true,
+    "files.autoSave": "onWindowChange",
+    "editor.fontSize": 18,
+    "workbench.editor.untitled.hint": "hidden",
+    "workbench.colorTheme": "Snazzy Operator"
+}
